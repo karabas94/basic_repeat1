@@ -10,6 +10,7 @@
 мінімум із трьох або середньоарифметичне трьох чисел.
 """
 
+
 first_number = int(input("Enter first number: "))
 second_number = int(input("Enter second number: "))
 third_number = int(input("Enter third number: "))
